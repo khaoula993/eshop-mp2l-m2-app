@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/web-app.jar --port $PORT target/*.war
+web: java -jar target/eshop-mp2l-m2-01.jar
