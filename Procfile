@@ -1,1 +1,0 @@
-web: java -jar target/eshop-mp2l-m2-01.jar
